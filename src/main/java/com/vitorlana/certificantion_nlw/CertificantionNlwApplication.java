@@ -8,6 +8,8 @@ public class CertificantionNlwApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CertificantionNlwApplication.class, args);
+
+		
 	}
 
 }

@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vitorlana</groupId>
 	<artifactId>certificantion_nlw</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>certificantion_nlw</name>
 	<description>Projeto certification </description>
 	<properties>
