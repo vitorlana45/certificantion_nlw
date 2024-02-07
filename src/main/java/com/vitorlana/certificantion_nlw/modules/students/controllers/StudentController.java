@@ -9,11 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.vitorlana.certificantion_nlw.modules.students.dto.VerifyHasCertificationDTO;
 import com.vitorlana.certificantion_nlw.modules.students.useCases.VerifyIfHasCertificationUseCase;
 
+
 @RestController
 @RequestMapping("/students")
 
 // DTO DATA TRANSFER OBJECT
-
 public class StudentController {
 
     // Preciso usar o meu USECASE
@@ -32,5 +32,4 @@ public class StudentController {
         return "Usuario pode fazer a prova";
 
     }
-
 }
